@@ -1,0 +1,47 @@
+version: "3.9"
+services:
+
+  # connection redirection (Proxy)
+  # - nginx
+  # - traefik
+  
+  
+  # email
+  
+
+  # website
+  # - apache
+  # - ningx
+  
+  
+  # Let's Encrypt!
+  # https
+      
+  
+  # video schooling
+  # - zoom
+  # - jitsi
+  
+  
+  # video plattform for uploads
+  # - Kaltura
+  # - bamboo-video
+  
+  # Authentication
+  # - keycloak
+  # - OpenLDAP
+  
+    
+  # Project:
+  # - gitlab
+  
+  
+  # file sharing
+  # - nextcloud
+  # - moodle
+  # - teaching like (grips)
+  
+  # Database
+  # - mysql
+  # - mariadb
+  # ...
